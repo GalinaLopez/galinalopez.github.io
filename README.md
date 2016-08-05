@@ -1,2 +1,2 @@
 # galinalopez.github.io
-Data analytics 
+https://galinalopez.github.io/
